@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razz_02
+- 👋 Hi, I’m @Raj kumar meena
 - 🌱 I’m currently learning ...Dsa & Web development
 - 📫 How to reach me ... raajkumar8003@gmail.com
 
