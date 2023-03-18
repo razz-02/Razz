@@ -5,13 +5,12 @@
 <div>
 <h2>Github Stats</h2>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@azz-02" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancoreraj&show_icons=true&locale=en&theme=tokyonight" alt="@azz-02" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=razz-02&show_icons=true&locale=en&theme=tokyonight" alt="@azz-02" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=razz-02&show_icons=true&locale=en&theme=tokyonight" alt="@azz-02" />
 </p>
 </div>
 
 ### 💪 Languages that I know &nbsp;
-<h2>💪 Languages that I know </h2>
 
 <br />
 
